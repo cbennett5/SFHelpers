@@ -1,1 +1,1 @@
-alias SFProjects='cd ~Desktop/projects'
+alias SFProjects='cd ~/Desktop/projects'
